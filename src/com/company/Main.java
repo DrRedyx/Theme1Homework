@@ -8,7 +8,7 @@ public class Main {
         byte b = 1;
         short sh = 1;
         int n = 1;
-        long l = 112344132;
+        long l = 1123441321;
         float f = 1.0f;
         double d = 1.0;
         char ch = 1;
